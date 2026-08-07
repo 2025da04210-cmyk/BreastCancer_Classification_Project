@@ -1,4 +1,4 @@
-# BreastCancer\_Classification\_Project
+# BreastCancer_Classification_Project
 
 &#x20;a. Problem Statement
 
@@ -106,7 +106,7 @@ Data preprocessing steps performed:
 
 
 
-https://github.com/2025da04210-cmyk/BreastCancer\_Classification\_Project
+https://github.com/2025da04210-cmyk/BreastCancer_Classification_Project
 
 
 
@@ -146,17 +146,17 @@ Evaluation Metrics:
 
 
 
-\- ACCURACY : Measures overall correct predictions.
+ ACCURACY : Measures overall correct predictions.
 
-\- AUC : Measures model ability to distinguish between classes.
+ AUC : Measures model ability to distinguish between classes.
 
-\- PRECISION : Measures correctly predicted positive cases.
+ PRECISION : Measures correctly predicted positive cases.
 
-\- RECALL : Measures ability to identify actual positive cases.
+ RECALL : Measures ability to identify actual positive cases.
 
-\- F1 SCORE : Balance between precision and recall.
+ F1 SCORE : Balance between precision and recall.
 
-\- MCC: Measures correlation between actual and predicted classifications.
+ MCC: Measures correlation between actual and predicted classifications.
 
 
 
