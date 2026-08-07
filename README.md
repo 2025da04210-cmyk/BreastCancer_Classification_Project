@@ -1,8 +1,6 @@
 # BreastCancer\_Classification\_Project
 
-
-
-\## a. Problem Statement
+&#x20;a. Problem Statement
 
 
 
@@ -14,7 +12,7 @@ The project uses supervised machine learning algorithms to classify cancer diagn
 
 
 
-\## b. Dataset Description
+&#x20;b. Dataset Description
 
 
 
@@ -30,7 +28,7 @@ The dataset contains medical features extracted from digitized images of breast 
 
 
 
-The target variable is:Diagnosis
+The target variable is: Diagnosis
 
 
 
@@ -64,23 +62,23 @@ Features include:
 
 
 
-\- Radius
+&#x20;Radius
 
-\- Texture
+&#x20;Texture
 
-\- Perimeter
+&#x20;Perimeter
 
-\- Area
+&#x20;Area
 
-\- Smoothness
+&#x20;Smoothness
 
-\- Compactness
+&#x20;Compactness
 
-\- Concavity
+&#x20;Concavity
 
-\- Symmetry
+&#x20;Symmetry
 
-\- Fractal Dimension
+&#x20;Fractal Dimension
 
 
 
@@ -90,23 +88,21 @@ Data preprocessing steps performed:
 
 
 
-\- Removed unnecessary columns (id, Unnamed:32)
+&#x20;Removed unnecessary columns (id, Unnamed:32)
 
-\- Checked missing values
+&#x20;Checked missing values
 
-\- Encoded target variable
+&#x20;Encoded target variable
 
-\- Split data into training and testing datasets
+&#x20;Split data into training and testing datasets
 
-\- Applied feature scaling using StandardScaler
-
-
-
-\## c. GitHub Repository Link
+&#x20;Applied feature scaling using StandardScaler
 
 
 
-GitHub Repository:
+&#x20;c. GitHub Repository Link
+
+
 
 
 
@@ -114,7 +110,7 @@ https://github.com/2025da04210-cmyk/BreastCancer\_Classification\_Project
 
 
 
-\# d. Models Used
+&#x20;d. Models Used
 
 
 
@@ -138,7 +134,7 @@ Random 	        0.973684211	0.992890212	1	        0.928571429	   0.962962963	   
 
 
 
-\## Model Performance Comparison
+&#x20;Model Performance Comparison
 
 
 
@@ -164,7 +160,7 @@ Evaluation Metrics:
 
 
 
-\# Model Observations
+&#x20;Model Observations
 
 
 
@@ -186,7 +182,7 @@ Random Forest (Ensemble) -> Provides better generalization by combining multiple
 
 
 
-\# Overall Winner for Your Dataset
+&#x20;Overall Winner for Your Dataset
 
 
 
