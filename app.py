@@ -26,9 +26,9 @@ model_folder = "model"
 
 # Available models
 models = {
-    "Logistic Regression": "Logistic_Model.pkl",
+    "Logistic Regression": "Logistic_Regression_Model.pkl",
     "Random Forest": "Random_Forest_Model.pkl",
-    "SVM": "SVM_Model.pkl",
+    "SVM": "K-Nearest_Neighbors_Model.pkl",
     "Decision Tree": "Decision_Tree_Model.pkl",
     "Naive Bayes ":"Gaussian_Naive_Bayes_Model.pkl"
 }
